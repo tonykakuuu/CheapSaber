@@ -1,6 +1,6 @@
 # CheapSaber
 Building a lightsaber for under 25€ (electronics only) from cheap Chinese parts. It does have a draw animation and can shift between multiple color presets.
-For the shell of the saber, there are a multitde of different methods to build one. I chose [this](https://www.punishedprops.com/2019/12/16/ros-lightsaber/) model by Bill Doran from punishedprops, licensed under Creative Commons (4.0 International License). I also included it in the repository, for archival purposes. The BOM only includes electronic parts, not the parts for whatever outer shell you choose to build. 
+For the shell of the saber, there are a multitude of different methods to build one. I chose [this](https://www.punishedprops.com/2019/12/16/ros-lightsaber/) model by Bill Doran from punishedprops, licensed under Creative Commons (4.0 International License). The BOM only includes electronic parts, not the parts for whatever outer shell you choose to build. 
 
 ## BOM
 Note: Some of these parts are best purchased in bulk. 
